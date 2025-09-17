@@ -1,0 +1,27 @@
+Lion King Movie Review Sentiment Analysis
+==================================================
+
+Review 1:
+"'The Lion King' is arguably up for one of the best films of all time."
+Sentiment: Negative (Score: -1.2351)
+--------------------------------------------------
+Review 2:
+"At this point in animation history, we can expect no less than perfection from Disney, and they deliver."
+Sentiment: Positive (Score: 3.3002)
+--------------------------------------------------
+Review 3:
+"With its remarkable narrative, memorable characters, stunning animation, and brilliant music, The Lion King remains the very pinnacle of Disney's animated achievements."
+Sentiment: Positive (Score: 5.3722)
+--------------------------------------------------
+Review 4:
+"Although far from the worst offender in Disney's canon, The Lion King is nevertheless host to many of the less savory qualities common to the studio's output."
+Sentiment: Positive (Score: 0.3656)
+--------------------------------------------------
+Review 5:
+"soulless chimera of a film [that] comes off as little more than a glorified tech demo from a greedy conglomerate — a well-rendered but creatively bankrupt self-portrait of a movie studio eating its own tail."
+Sentiment: Negative (Score: -2.7235)
+--------------------------------------------------
+Review 6:
+"It’s the work of a studio that’s gobbled up the rest of the film industry and is still hungry for more. The Lion King feels less like a remake than a snuff film, and a boring one at that."
+Sentiment: Negative (Score: -4.3821)
+--------------------------------------------------

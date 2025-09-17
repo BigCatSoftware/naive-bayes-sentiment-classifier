@@ -1,0 +1,35 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg-info/
+
+# Generated analysis files
+error_analysis.txt
+LionKing_Sentiment_Analysis.txt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Allow review datasets
+!pos/
+!neg/
+!pos/pos/
+!neg/neg/
+!pos/pos/*.txt
+!neg/neg/*.txt
+!LionKing_MovieReviews.txt
